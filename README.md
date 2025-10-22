@@ -1,8 +1,8 @@
 Phân tích dữ liệu khách hàng mua vé xem phim online
 1. Mô tả:
-Thực hiện phân tích chuyên sâu dữ liệu khách hàng và lịch sử mua vé để hiểu rõ hơn về hành vi khách hàng, tối ưu hóa chiến lược kinh doanh và nâng cao tỷ lệ giữ chân.
+- Thực hiện phân tích chuyên sâu dữ liệu khách hàng và lịch sử mua vé để hiểu rõ hơn về hành vi khách hàng, tối ưu hóa chiến lược kinh doanh và nâng cao tỷ lệ giữ chân.
 2. Nguồn dữ liệu:
- Sử dụng các tập dữ liệu về chiến dịch, khách hàng, chi tiết thiết bị, chi tiết trạng thái giao dịch và lịch sử mua vé.
+ - Sử dụng các tập dữ liệu về chiến dịch, khách hàng, chi tiết thiết bị, chi tiết trạng thái giao dịch và lịch sử mua vé.
 3. Các bước thực hiện chính:
 - Thu thập và làm sạch dữ liệu từ nhiều nguồn khác nhau, xử lý giá trị thiếu và trùng lặp.
 - Kết hợp các bảng dữ liệu để tạo ra một tập dữ liệu hoàn chỉnh cho phân tích.
@@ -19,4 +19,4 @@ Thực hiện phân tích chuyên sâu dữ liệu khách hàng và lịch sử 
 - Phân tích giá trị khách hàng và nhận diện nhóm khách hàng đóng góp doanh thu lớn.
 - Đánh giá tỷ lệ giữ chân khách hàng và xác định các yếu tố tiềm năng ảnh hưởng.
 5. Công nghệ sử dụng:
-  Python (Pandas để xử lý và phân tích dữ liệu, Matplotlib và Seaborn để trực quan hóa dữ liệu).
+- Python (Pandas để xử lý và phân tích dữ liệu, Matplotlib và Seaborn để trực quan hóa dữ liệu).
